@@ -1,4 +1,4 @@
-# Churn-Modeling
+# Churn-Modelling
 # 🔍 Bank Customer Churn Prediction
 
 This project focuses on predicting which customers are likely to leave a bank using a supervised machine learning classification model.
